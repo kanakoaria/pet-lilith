@@ -1,0 +1,6 @@
+{
+  "id": "lilith-compatible",
+  "displayName": "Lilith (Compatible)",
+  "description": "Codex-compatible 9-row Lilith pet with frame-safe sizing and clipping guards.",
+  "spritesheetPath": "spritesheet.webp"
+}
